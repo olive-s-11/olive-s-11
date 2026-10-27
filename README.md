@@ -44,5 +44,4 @@ I build machine learning systems that are accurate **and** explainable. My work 
 | Apps | Streamlit |
 | MLOps & DevOps | Docker, MLflow, GitHub Actions, CML, Git, WSL2 |
 | Cloud | AWS |
-| Healthcare interoperability | FHIR (API specifications, resource mapping) |
 | Environments | Google Colab, Jupyter, VS Code |
